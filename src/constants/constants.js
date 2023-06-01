@@ -4,11 +4,11 @@ export const projects = [
     title: "Portfolio-2022",
     description:
       "The portfolio can have the same purpose as a CV. Most CVs are written with text, while the portfolio is for showcasing, so it is visual with images and often more detailed than the CV. It is about showing and giving others an understanding of who you are as a professional.",
-    image: "images/jpgs/hex-color-1.jpg",
-    imageWebp: "images/jpgs/Resume.jpg",
+    image: "images/jpgs/Resume.png",
+    imageWebp: "images/jpgs/Resume.png",
     images: [
       {
-        original: "images/jpgs/Resume.jpg",
+        original: "images/jpgs/Resume.png",
         loading: "lazy",
         originalAlt: "Resume",
       }
@@ -26,11 +26,11 @@ export const projects = [
     title: "IMDB Clone",
     description:
       "The IMDb clone enables members to post content, pictures, videos, and reviews on movies and TV shows. The app and website will be SEO friendly comprising all the latest integrations to help it remain on top of all leading search engines. Powerful admin platform to help monitor the entire business functionality coupled with user-friendly CMS",
-    image: "images/jpgs/imdb.webp",
-    imageWebp:  "images/jpgs/imdb.webp",
+    image: "images/jpgs/Imdb.png",
+    imageWebp:  "images/jpgs/Imdb.png",
     images: [
       {
-        original: "images/jpgs/imdb.webp",
+        original: "images/jpgs/Imdb.png",
         loading: "lazy",
         originalAlt: "IMDB",
       }
@@ -47,12 +47,12 @@ export const projects = [
     title: "Calculator",
     description:
       "A calculator is a device that performs arithmetic operations on numbers. Basic calculators can do only addition, subtraction, multiplication and division mathematical calculations However, more sophisticated calculators can handle exponential operations, square roots, logarithms, trigonometric functions and hyperbolic functions.",
-    image: "images/jpgs/Calculator.jpg",
-    imageWebp: "images/jpgs/Calculator.jpg",
+    image: "images/jpgs/Calculator.png",
+    imageWebp: "images/jpgs/Calculator.png",
     images: [
       {
         original:
-        "images/jpgs/Calculator.jpg",
+        "images/jpgs/Calculator.png",
         loading: "lazy",
         originalAlt: "Calculator",
       }
